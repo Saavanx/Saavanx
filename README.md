@@ -30,6 +30,10 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
    
-[![Saavanx's GitHub | Stats](https://stats.quine.sh/Saavanx/github?theme=light)](https://quine.sh) [![Saavanx's GitHub | Languages Over Time](https://stats.quine.sh/Saavanx/languages-over-time?theme=light)](https://quine.sh)
+
 </p>
 
+<p align="center">
+[![Saavanx's GitHub | Stats](https://stats.quine.sh/Saavanx/github?theme=light)](https://quine.sh) 
+ [![Saavanx's GitHub | Languages Over Time](https://stats.quine.sh/Saavanx/languages-over-time?theme=light)](https://quine.sh)
+ </p>
