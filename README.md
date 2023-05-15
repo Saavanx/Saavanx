@@ -33,6 +33,6 @@
 [![Saavanx's GitHub | Stats](https://stats.quine.sh/Saavanx/github?theme=light)](https://quine.sh)   
 </p>
 
-<p align="center">
+<p align="left">
  [![Saavanx's GitHub | Stats](https://stats.quine.sh/Saavanx/github?theme=light)](https://quine.sh)   
  </p>
