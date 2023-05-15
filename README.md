@@ -35,5 +35,4 @@
 
 <p align="center">
 [![Saavanx's GitHub | Stats](https://stats.quine.sh/Saavanx/github?theme=light)](https://quine.sh) 
- [![Saavanx's GitHub | Languages Over Time](https://stats.quine.sh/Saavanx/languages-over-time?theme=light)](https://quine.sh)
  </p>
