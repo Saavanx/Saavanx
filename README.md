@@ -21,6 +21,12 @@
 
 </p>
 
+<h3 align="center"> if you want to buy a beer for me 🥺👉👈
+
+<p></P>
+<a href="https://www.buymeacoffee.com/saavanx"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a beer&emoji=&slug=hackerspider1&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
+</h3>
+
 # 💻 Languages and Tools:
 <p align="left"> 
     <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
